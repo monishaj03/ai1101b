@@ -17,16 +17,17 @@
 
 
         <dependency>
-            <groupId>org.seleniumhq.selenium.fluent</groupId>
-            <artifactId>fluent-selenium</artifactId>
-            <version>1.23</version>
-        </dependency>
-        <dependency>
-            <groupId>com.lihaoyi</groupId>
-            <artifactId>mill-testng</artifactId>
-            <version>0.2.6-1-9db9f7</version>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-support</artifactId>
+            <version>4.25.0</version>
         </dependency>
 
+        </dependency>
+        <dependency>
+            <groupId>ru.testit</groupId>
+            <artifactId>testit-adapter-testng</artifactId>
+            <version>2.3.5</version>
+        </dependency>
     </dependencies>
 
 </project>
