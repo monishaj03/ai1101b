@@ -1,14 +1,31 @@
- --<!DOCTYPE html>
+Sure! Here's a simple HTML registration form that you can use as a starting point. This form collects basic user information such as name, email, and password.
+
+Copy the code
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>my first page</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Registration Form</title>
 </head>
 <body>
-<img src="cbit.jpeg" alt="logo">
-    <h1>DCSE</h1>
-    <h2>vision</h2>
-<p>prepare competent professional embedded with human values</p>
+<div class="container">
+  <h2>Registration Form</h2>
+  <form action="/submit_registration" method="post">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required>
+
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" required>
+
+    <button type="submit">Register</button>
+  </form>
+</div>
 </body>
 </html>
+
+
+This code creates a simple and clean registration form with fields for the user's name, email, and password. The form is styled to be centered on the page and has a modern look. You can further customize the styles and add more fields as needed.
