@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4789a1a3-d230-4f40-a031-9437201f4dd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/style.css.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8ac3bb9e-65a2-41a9-b51f-2f701d2c17da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/style3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/index1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/index8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/index1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,8 @@
   "customColor": "",
   "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="2w4LS3Pjf4JvDJN4TRCBX5dJxvH" />
+  <component name="ProjectId" id="2xLcoea1AVoq2643cqskrHmLTZT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,7 +44,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "Maven.maven [clean].executor": "Run",
     "Maven.maven [install].executor": "Run",
-    "Maven.maven [package].executor": "Run",
+    "Maven.maven [test].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -54,11 +55,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4789a1a3-d230-4f40-a031-9437201f4dd6" name="Changes" comment="" />
-      <created>1745295897152</created>
+      <changelist id="8ac3bb9e-65a2-41a9-b51f-2f701d2c17da" name="Changes" comment="" />
+      <created>1747720974538</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1745295897152</updated>
+      <updated>1747720974538</updated>
     </task>
     <servers />
   </component>
